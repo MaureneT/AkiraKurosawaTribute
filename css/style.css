@@ -1,0 +1,67 @@
+
+ul {
+    list-style: none;
+    margin-left: 0px;
+}
+li {
+    margin-bottom: 10px;
+    line-height: 2em;
+}
+.date {
+    font-family: "Droid Sans", "Times New Roman", sans-serif;
+    font-size: 1.4em;
+    font-weight: bold;
+    padding-right: 5px;
+    display: inline-block;
+    
+}
+.film {
+    font-family: "Droid Sans", "Times New Roman", sans-serif;
+    font-style: italic;
+}
+a:hover {
+    text-decoration: none;
+}
+.quote {
+    color: #404040;
+    font-family: monospace;
+}
+h1 {
+    font-family: "Inconsolata";
+}
+.name {
+    font-family: "Yesteryear";
+    font-size: 5em;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    word-spacing: 10px;
+}
+figure {
+    background-image: url(images/extra_clean_paper.png);
+    display: table;
+}
+figcaption {
+    font-family: "Inconsolata";
+    font-size: 1.2em;
+    color: #595959;
+    height: 45px;
+    padding: 0px 3px;
+}
+figure:hover {
+    background-image: none;
+    background-color: lightgray;
+}
+.row a {
+    color: black;
+}
+.wiki {
+    font-family: Insonsolata;
+    font-size: 1.2em;
+    padding-top: 5px;
+}
+body {
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+
